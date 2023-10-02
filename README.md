@@ -1,4 +1,13 @@
-### Hi there 👋, I'm learning stuff.
+# Hi there 👋, I am a Web Developer in training.
+### Welcome to my profile page.
+Im working to become a software developer but starting with Web development. This is a whole new world to me and so far im really ecstatic about the journey.
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MorvidAngel&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MorvidAngel&theme=tokyonight"/>
+</p>
+
+![where I'm from](https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg)
 
 <!--
 **MorvidAngel/MorvidAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
