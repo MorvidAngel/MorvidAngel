@@ -3,10 +3,8 @@
 Im working to become a software developer but starting with Web development. This is a whole new world to me and so far im really ecstatic about the journey.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MorvidAngel&show_icons=true&theme=tokyonight"/>
-    <br>
-  <img width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorvidAngel&layout=compact&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MorvidAngel&theme=tokyonight"/>
+  <img hight="100px" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MorvidAngel&layout=compact&theme=tokyonight"/>
+  <img hight="100px" width="45%" src="https://github-readme-stats.vercel.app/api?username=MorvidAngel&show_icons=true&theme=tokyonight"/>
 </p>
 
 ![where I'm from](https://upload.wikimedia.org/wikipedia/commons/e/eb/Machu_Picchu%2C_Peru.jpg)
