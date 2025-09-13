@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### <img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=24&pause=1000&random=false&width=435&lines=Love+coding+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB%F0%9F%8C%90+%F0%9F%94%A8+%F0%9F%91%B7+%F0%9F%A4%9D;Enjoy+anime+%E2%9B%A9%EF%B8%8F%F0%9F%8C%B8%F0%9F%8D%A5%E2%98%AF%F0%9F%8D%9C;Fight+for+Democracy+or+play+Apex+%F0%9F%8E%AE%F0%9F%95%B9%EF%B8%8F%F0%9F%91%BE;Love+hiking+with+the+Dogo+%F0%9F%8E%92%F0%9F%8F%95%EF%B8%8F%F0%9F%93%B8+%F0%9F%90%B6;Love+learning+as+much+as+i+can+%F0%9F%92%A1%F0%9F%A7%A0%F0%9F%A4%93;Enjoy+finding+solutions+%F0%9F%95%B5%F0%9F%A7%A9%F0%9F%92%AF" alt="Typing SVG" /></a>
 
-Im working to become a software developer, I have so many projects I want to work on. <br>This is a whole new world to me, and so far im ecstatic about the journey.
+Im working to become a software developer. I have so many projects I want to work on. <br>This is a whole new world to me, and so far im ecstatic about the journey.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/intuitive.wolf.fb) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_intuitivewolf_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jack-perez) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@intuitivewolf3695) 
